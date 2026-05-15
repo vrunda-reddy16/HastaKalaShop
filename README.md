@@ -149,7 +149,7 @@ app/src/main/java/com/hastakalashop/app/
 ## 🎓 Internship Details
 
 - **Company:** MindMatrix, Bengaluru
-- **Project:** Project 14 — Self Employment
+- **Project:** Project 14 — Hasta - Kala (Self Employment)
 - **Intern:** Vrunda S
 - **USN:** 1DA22AI052
 - **Department:** AI and ML
